@@ -1,0 +1,5 @@
+DayPlanApp/
+password
+node_modules
+.env
+secrets.txt
